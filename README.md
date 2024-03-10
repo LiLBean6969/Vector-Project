@@ -3,8 +3,11 @@ CPSC 131- Data Structure : Project 1
 Here is the file:https://docs.google.com/document/d/1hvLx-ZcAC_qjLmOOmwRwjyCHUyW6-QR8YxRN6Wubu3g/edit
 Shrinivas Patil
 spatil@csu.fullerton.edu
+
+
 To compile enter: g++ -o my_program main.cc
 To run: ./my_program
+
 
 Submission: Upload on Canvas the program file with proper extension. Add your name and CWID in the beginning of the starter template. Or else, upload a link to the github repository and give me access. 
 Introduction
